@@ -42,3 +42,7 @@ exports/
 # coverage
 .coverage
 coverage.xml
+
+
+# config
+config/secret.json
